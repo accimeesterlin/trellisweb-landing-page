@@ -1,5 +1,9 @@
 
 export default {
+  target: 'static',
+  router: {
+    base: 'trellisweb-landing-page'
+  },
   /*
   ** Headers of the page
   */
@@ -11,9 +15,9 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'apple-touch-icon', sizes:'180x180', type: 'image/x-icon', href: '/assets/images/favicons/apple-touch-icon.png' },
-      { rel: 'icon', sizes:'32x32', type: 'image/png', href: '/assets/images/favicons/favicon-32x32.png' },
-      { rel: 'icon', sizes:'16x16', type: 'image/png', href: '/assets/images/favicons/favicon-16x16.png' },
+      { rel: 'apple-touch-icon', sizes:'180x180', type: 'image/x-icon', href: '/assets/images/trellis-web-logo.png' },
+      { rel: 'icon', sizes:'32x32', type: 'image/png', href: '/assets/images/favicons/trellis-web-logo.png' },
+      { rel: 'icon', sizes:'16x16', type: 'image/png', href: '/assets/images/favicons/trellis-web-logo.png' },
 
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" },
       { rel: "stylesheet", href: "/assets/css/bootstrap.min.css" },
