@@ -1,6 +1,6 @@
 # apiton
 
-> Apiton - Vue Nuxt App Landing Page Template
+> Trellis Web Development, INC.
 
 ## Build Setup
 

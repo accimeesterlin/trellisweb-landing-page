@@ -1,5 +1,5 @@
 <template>
-  <section class="contact-one">
+  <section class="contact-one" id="contact">
     <img src="/assets/images/shapes/contact-bg-shape-1-1.png" class="contact-one__bg-shape-1" alt="">
     <div class="container">
       <div class="row">
@@ -42,7 +42,7 @@
         <div class="col-lg-5 d-flex wow fadeInRight" data-wow-duration="1500ms">
           <div class="my-auto">
             <div class="contact-one__image">
-              <img src="/assets/images/resources/contact-1-1.jpg" alt="">
+              <img src="/assets/images/team-work.png" alt="">
             </div><!-- /.contact-one__image -->
           </div><!-- /.my-auto -->
         </div><!-- /.col-lg-5 -->

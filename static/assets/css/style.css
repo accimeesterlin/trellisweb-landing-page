@@ -87,7 +87,7 @@ a:visited {
 	border: none;
 	outline: none;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	border-radius: 5px;
 	font-size: 16px;
 	font-weight: bold;
@@ -120,7 +120,7 @@ a:visited {
 .thm-btn span {
 	position: relative;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -308,7 +308,7 @@ a:visited {
 	width: 45px;
 	height: 45px;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(var(--thm-base)), color-stop(51%, var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(180deg, var(--thm-base) 0%, var(--thm-primary) 51%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: fixed;
 	bottom: 40px;
 	right: 40px;
@@ -787,7 +787,7 @@ a:visited {
 	-webkit-transform: scale(0, 1);
 	        transform: scale(0, 1);
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	top: -2px;
 	left: -2px;
 	right: -2px;
@@ -897,7 +897,7 @@ a:visited {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-image: linear-gradient(120deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	opacity: 0.8;
 }
 
@@ -985,7 +985,7 @@ a:visited {
 	-webkit-transition: background 500ms ease;
 	transition: background 500ms ease;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), color-stop(51%, var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 51%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .banner-one__mc-btn::before {
@@ -1037,7 +1037,7 @@ a:visited {
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), color-stop(51%, var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 51%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .banner-one__video:hover {
@@ -1155,7 +1155,7 @@ a:visited {
 	border-radius: 50%;
 	-webkit-transform: translateY(100%) rotate(180deg) perspective(44px);
 	        transform: translateY(100%) rotate(180deg) perspective(44px);
-	background-image: linear-gradient(117deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-transition: -webkit-transform 500ms ease;
 	transition: -webkit-transform 500ms ease;
 	transition: transform 500ms ease;
@@ -1197,7 +1197,7 @@ a:visited {
 	padding-bottom: 40px;
 	border-radius: 71px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	margin-bottom: -71px;
 	position: relative;
 }
@@ -1225,7 +1225,7 @@ a:visited {
 
 .mailchimp-one__icon i::before {
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -1291,7 +1291,7 @@ a:visited {
 	-webkit-transform: scale(0, 1);
 	        transform: scale(0, 1);
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	top: -2px;
 	left: -2px;
 	right: -2px;
@@ -1509,7 +1509,7 @@ a:visited {
 	border-radius: 50%;
 	-webkit-transform: translateY(100%) rotate(180deg) perspective(44px);
 	        transform: translateY(100%) rotate(180deg) perspective(44px);
-	background-image: linear-gradient(117deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-transition: -webkit-transform 500ms ease;
 	transition: -webkit-transform 500ms ease;
 	transition: transform 500ms ease;
@@ -1806,7 +1806,7 @@ a:visited {
 	content: '';
 	border-radius: 5px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2059,7 +2059,7 @@ a:visited {
 	border-radius: 50%;
 	-webkit-transform: translateY(100%) rotate(180deg) perspective(44px);
 	        transform: translateY(100%) rotate(180deg) perspective(44px);
-	background-image: linear-gradient(117deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-transition: -webkit-transform 500ms ease;
 	transition: -webkit-transform 500ms ease;
 	transition: transform 500ms ease;
@@ -2299,7 +2299,7 @@ a:visited {
 	width: 100%;
 	height: 72px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: relative;
 	border-radius: 5px;
 }
@@ -2545,7 +2545,7 @@ a:visited {
 .service-one__icon i {
 	font-size: 64px;
 	background-image: -webkit-gradient(linear, right top, left top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(-90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -2591,7 +2591,7 @@ a:visited {
 	content: '';
 	border-radius: 5px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2759,7 +2759,7 @@ a:visited {
 	left: 0;
 	font-size: 18px;
 	background-image: -webkit-gradient(linear, right top, left top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(-90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -2824,7 +2824,7 @@ a:visited {
 	color: #fff;
 	font-size: 64px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .cta-two__icon-single h3 {
@@ -2910,7 +2910,7 @@ a:visited {
 	        justify-content: center;
 	overflow: hidden;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .cta-three__btn:hover {
@@ -3000,7 +3000,7 @@ a:visited {
 	        transform: translateY(-50%);
 	font-size: 30px;
 	background-image: -webkit-gradient(linear, right top, left top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(-90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -3034,7 +3034,7 @@ a:visited {
 	padding-top: 121px;
 	padding-bottom: 121px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .funfact-one::before {
@@ -3109,7 +3109,7 @@ a:visited {
 	content: '';
 	border-radius: 5px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -3237,7 +3237,7 @@ a:visited {
 	-webkit-transition: .4s;
 	transition: .4s;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 
@@ -3462,7 +3462,7 @@ a:visited {
 	-webkit-transform: scale(0);
 	        transform: scale(0);
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-transform-origin: center;
 	        transform-origin: center;
 	background-size: 100% 100%;
@@ -3540,7 +3540,7 @@ a:visited {
 	height: 192px;
 	border: 27px solid #f6f6fb;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 @media (max-width: 1350px) {
@@ -3810,7 +3810,7 @@ a:visited {
 	content: '';
 	border-radius: 5px;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -3939,7 +3939,7 @@ a:visited {
 	transition: transform 500ms ease, opacity 500ms ease;
 	transition: transform 500ms ease, opacity 500ms ease, -webkit-transform 500ms ease;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .app-shot-one .app-shot-one__carousel .owl-dots .owl-dot:hover span::before,
@@ -4005,7 +4005,7 @@ a:visited {
 	right: 0;
 	bottom: 0;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), to(var(--thm-primary)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	opacity: 0.8;
 }
 
@@ -4027,7 +4027,7 @@ a:visited {
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-base)), color-stop(51%, var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-base) 0%, var(--thm-primary) 51%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
 .video-one__btn:hover {
@@ -4133,7 +4133,7 @@ a:visited {
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
 	background-image: -webkit-gradient(linear, left top, right top, from(var(--thm-primary)), to(var(--thm-base)));
-	background-image: linear-gradient(90deg, var(--thm-primary) 0%, var(--thm-base) 100%);
+	background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 	-webkit-transition: -webkit-transform .4s ease;
 	transition: -webkit-transform .4s ease;
 	border-radius: 5px;

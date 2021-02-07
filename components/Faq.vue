@@ -1,5 +1,5 @@
 <template>
-  <section class="faq-one">
+  <section class="faq-one" id="faqs">
     <img src="/assets/images/shapes/faq-bg-1-1.png" class="faq-one__bg-shape-1" alt="">
     <div class="container">
       <div class="block-title text-center">
@@ -64,7 +64,7 @@
     padding: 10px;
     background: #fff;
     box-sizing: border-box;
-    border: 1px solid #ee464b;
+    border: 1px solid #20bf55;
   }
 
   .ac>.ac-q {
@@ -81,7 +81,7 @@
   }
 
   .ac.is-active .ac-q {
-    color: #ee464b !important;
+    color: #20bf55 !important;
   }
   .ac>.ac-q::after {
     content: '+';

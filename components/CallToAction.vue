@@ -1,16 +1,16 @@
 <template>
-  <section class="cta-one">
+  <section class="cta-one" id="our-work">
     <img src="/assets/images/shapes/cta-1-shape-1.png" class="cta-one__bg-shape-1" alt="">
     <img src="/assets/images/shapes/cta-1-shape-2.png" class="cta-one__bg-shape-2" alt="">
     <div class="container">
       <div class="cta-one__moc wow fadeInLeft" data-wow-duration="1500ms">
-        <img src="/assets/images/resources/cta-1-moc-1.png" class="cta-one__moc-img" alt="">
+        <img src="/assets/images/innovator.svg" class="cta-one__moc-img" alt="">
       </div><!-- /.cta-one__moc -->
       <div class="row justify-content-end">
         <div class="col-lg-6">
           <div class="cta-one__content">
             <div class="block-title text-left">
-              <p>Best Application</p>
+              <!-- <p>Best Application</p> -->
               <h3>We’re innovators, doers and task masters.</h3>
             </div><!-- /.block-title text-center -->
             <div class="cta-one__text">

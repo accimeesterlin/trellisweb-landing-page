@@ -12,7 +12,7 @@
     },
     head(){
       return {
-        title: "Apiton - Vue Nuxt App Landing Page Template"
+        title: "Trellis Web Development, INC."
       }
     },
     mounted(){

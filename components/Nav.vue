@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <div class="site-header-one__logo">
         <a href="/">
-          <img src="/assets/images/logo-1-1.png" width="129" alt="">
+          <img src="/assets/images/trellis-web-logo.JPG" width="129" alt="">
         </a>
         <span @click="mobileToggle = !mobileToggle" class="side-menu__toggler"><i class="fa fa-bars"></i></span><!-- /.side-menu__toggler -->
       </div><!-- /.site-header-one__logo -->
@@ -12,21 +12,23 @@
           <li class="scrollToLink">
             <a href="#home">Home</a>
           </li>
-          <li class="scrollToLink"><a href="#features">Our work</a></li>
-          <li class="scrollToLink"><a href="#pricing">About Us</a></li>
+          <li class="scrollToLink"><a href="#features">Our Service</a></li>
+          <li class="scrollToLink"><a href="#our-work">Our work</a></li>
           <li class="scrollToLink"><a href="#team">Team</a></li>
-          <li class="scrollToLink"><a href="#screens">Contact</a></li>
-          <li class="dropdown scrollToLink">
+          <li class="scrollToLink"><a href="#pricing">About Us</a></li>
+          <li class="scrollToLink"><a href="#contact">Contact</a></li>
+          <li class="scrollToLink"><a href="#faqs">FAQs</a></li>
+          <!-- <li class="dropdown scrollToLink">
             <a href="#blog">News</a>
             <ul>
               <li><nuxt-link to="/blog">News</nuxt-link></li>
               <li><nuxt-link to="/blog-details">News Details</nuxt-link></li>
             </ul>
-          </li>
+          </li> -->
         </ul><!-- /.main-nav__navigation-box -->
       </div><!-- /.main-nav__main-navigation -->
       <div class="main-nav__right">
-        <a href="#" class="thm-btn main-nav__btn"><span>Download App</span></a>
+        <a href="#" class="thm-btn main-nav__btn"><span>Get started</span></a>
       </div><!-- /.main-nav__right -->
     </div><!-- /.container-fluid -->
 

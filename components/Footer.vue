@@ -7,10 +7,10 @@
           <div class="col-lg-4">
             <div class="footer-widget footer-widget__about">
               <a href="/">
-                <img src="/assets/images/logo-1-1.png" width="129" alt="">
+                <img src="/assets/images/trellis-web-logo.JPG" width="129" alt="">
               </a>
-              <p>Lorem Ipsum is simply dummy text the <br> printing and setting industry. Lorm Ipsum
-                <br> has been the text ever.</p>
+              <p>We build, enhance and elevate your software. We’re your software development partner.
+</p>
             </div><!-- /.footer-widget -->
           </div><!-- /.col-lg-4 -->
 
@@ -61,7 +61,7 @@
     </div><!-- /.site-footer__upper -->
     <div class="site-footer__bottom">
       <div class="container text-center">
-        <p>© copyright 2020 by Layerdrops.com</p>
+        <p>© copyright 2021 by Trellis Web Development, INC.</p>
       </div><!-- /.container -->
     </div><!-- /.site-footer__bottom -->
   </footer>

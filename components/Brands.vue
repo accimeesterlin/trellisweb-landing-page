@@ -5,42 +5,46 @@
         <swiper :options="swiperOptions">
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-1.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-2.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-3.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-4.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-5.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-6.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-7.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
           <swiper-slide>
         <div class="item">
-          <img src="/assets/images/resources/brand-1-1.png" alt="">
+          <img src="/assets/images/languages/programming-8.png" alt="">
+        </div><!-- /.item -->
+
+         <div class="item">
+          <img src="/assets/images/languages/programming-9.png" alt="">
         </div><!-- /.item -->
           </swiper-slide>
         </swiper>

@@ -16,7 +16,7 @@
               <h3>Nathaniel McKenzie</h3>
               <p>App Designer</p>
               <div class="team-one__image">
-                <img src="/assets/images/team/team-1-1.jpg" alt="">
+                <img src="/assets/images/team/eaccime.png" alt="">
               </div><!-- /.team-one__image -->
               <div class="team-one__social">
                 <a href="#"><i class="fab fa-facebook-square"></i></a>
@@ -33,7 +33,7 @@
               <h3>Ronald Parks</h3>
               <p>App Designer</p>
               <div class="team-one__image">
-                <img src="/assets/images/team/team-1-2.jpg" alt="">
+                <img src="/assets/images/team/eaccime.png" alt="">
               </div><!-- /.team-one__image -->
               <div class="team-one__social">
                 <a href="#"><i class="fab fa-facebook-square"></i></a>
@@ -50,7 +50,7 @@
               <h3>Rachel Walker</h3>
               <p>App Designer</p>
               <div class="team-one__image">
-                <img src="/assets/images/team/team-1-3.jpg" alt="">
+                <img src="/assets/images/team/eaccime.png" alt="">
               </div><!-- /.team-one__image -->
               <div class="team-one__social">
                 <a href="#"><i class="fab fa-facebook-square"></i></a>
@@ -67,7 +67,7 @@
               <h3>Willie Castillo</h3>
               <p>App Designer</p>
               <div class="team-one__image">
-                <img src="/assets/images/team/team-1-4.jpg" alt="">
+                <img src="/assets/images/team/eaccime.png" alt="">
               </div><!-- /.team-one__image -->
               <div class="team-one__social">
                 <a href="#"><i class="fab fa-facebook-square"></i></a>

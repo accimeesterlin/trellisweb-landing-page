@@ -17,21 +17,21 @@
                   <swiper-slide>
                     <div class="swiper-slide">
                       <div class="testimonials-one__image">
-                        <img src="/assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
+                        <img src="/assets/images/customer-preview.png" alt="Awesome Image" />
                       </div><!-- /.testimonials-one__image -->
                     </div><!-- /.swiper-slide -->
                   </swiper-slide>
                   <swiper-slide>
                     <div class="swiper-slide">
                       <div class="testimonials-one__image">
-                        <img src="/assets/images/resources/testi-1-3.jpg" alt="Awesome Image" />
+                        <img src="/assets/images/customer-preview.png" alt="Awesome Image" />
                       </div><!-- /.testimonials-one__image -->
                     </div><!-- /.swiper-slide -->
                   </swiper-slide>
                   <swiper-slide>
                     <div class="swiper-slide">
                       <div class="testimonials-one__image">
-                        <img src="/assets/images/resources/testi-1-2.jpg" alt="Awesome Image" />
+                        <img src="/assets/images/customer-preview.png" alt="Awesome Image" />
                       </div><!-- /.testimonials-one__image -->
                     </div><!-- /.swiper-slide -->
                   </swiper-slide>

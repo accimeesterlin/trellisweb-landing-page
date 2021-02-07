@@ -26,7 +26,7 @@
         </ul><!-- /.main-nav__navigation-box -->
       </div><!-- /.main-nav__main-navigation -->
       <div class="main-nav__right">
-        <a href="#" class="thm-btn main-nav__btn-two"><span>Download App</span></a>
+        <a href="#" class="thm-btn main-nav__btn-two"><span>Get started</span></a>
       </div><!-- /.main-nav__right -->
     </div><!-- /.container-fluid -->
 

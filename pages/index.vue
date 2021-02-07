@@ -5,12 +5,17 @@
     <Service />
     <CallToAction />
     <FunFact />
+    <Discory />
+    <Discovery />
+    <Delivery />
+    <ProjectMapping />
+    <DesignAndDevelop />
     <CallToActionTwo />
     <Pricing />
     <Testimonial />
     <Brands />
     <Team />
-    <Video />
+    <!-- <Video /> -->
     <Screenshots />
     <Faq />
     <BlogArea />
@@ -26,6 +31,10 @@
   import Nav from "../components/Nav";
   import Banner from "../components/Banner";
   import Service from "../components/Service";
+  import ProjectMapping from "../components/ProjectMapping";
+  import DesignAndDevelop from "../components/DesignAndDevelop";
+  import Delivery from "../components/Delivery";
+  import Discovery from "../components/Discovery";
   import CallToAction from "../components/CallToAction";
   import FunFact from "../components/FunFact";
   import CallToActionTwo from "../components/CallToActionTwo";
@@ -54,8 +63,12 @@
       Team,
       Brands,
       Testimonial,
+      ProjectMapping,
+      DesignAndDevelop,
+      Delivery,
+      Discovery,
       // Pricing,
-      CallToActionTwo,
+      // CallToActionTwo,
       FunFact,
       CallToAction,
       Service,
