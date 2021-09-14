@@ -64,8 +64,8 @@
           <div class="team-one__single">
             <div class="team-one__circle"></div><!-- /.team-one__circle -->
             <div class="team-one__inner">
-              <h3>Willie Castillo</h3>
-              <p>App Designer</p>
+              <h3>Esterling Accime</h3>
+              <p>Software Engineer</p>
               <div class="team-one__image">
                 <img src="/assets/images/team/eaccime.png" alt="">
               </div><!-- /.team-one__image -->
